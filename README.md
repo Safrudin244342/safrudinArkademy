@@ -38,7 +38,7 @@ ganti ```http://localhost/safrudinArkademy``` dengan alamat website yang akan ka
 
 **2. Jika ingin mengganti database**
 
-Hrapa merubah code di file application/config/database.php line 76 - 96
+Harap merubah code di file application/config/database.php line 76 - 96
 ```bash
 $db['default'] = array(
 	'dsn'	=> '',
