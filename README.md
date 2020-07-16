@@ -5,13 +5,13 @@
 **1. Homa Page**
 <img src='documentasi/pageHome.png'>
 
-**2. Page Add Item**
+**2. Modal Add Item**
 <img src='documentasi/pageAdd.png'>
 
-**3. Page Update Item**
+**3. Modal Update Item**
 <img src='documentasi/pageUpdate.png'>
 
-**4. Page Delete Item**
+**4. Confirmation Delete Item**
 <img src='documentasi/pageDelete.png'>
 
 # table yang saya gunakan berisi 5 kolom
