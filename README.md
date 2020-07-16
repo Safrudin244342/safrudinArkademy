@@ -34,7 +34,7 @@ Harap merubah code di file application/config/config.php line 26
 $config['base_url'] = 'http://localhost/safrudinArkademy';
 ```
 
-ganti *http://localhost/safrudinArkademy* dengan alamat website yang akan kalian gunakan
+ganti ```http://localhost/safrudinArkademy``` dengan alamat website yang akan kalian gunakan
 
 **2. Jika ingin mengganti database**
 
